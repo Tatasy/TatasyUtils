@@ -9,6 +9,12 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * Create config file yml easily for spigot !
+ *
+ * @author Tatasy
+ * @version 1.0.0
+ */
 public class Config {
 
     private Plugin plugin;
