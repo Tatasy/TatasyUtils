@@ -1,1 +1,2 @@
 # TatasyUtils
+Some class utils !
